@@ -3,7 +3,7 @@ secrets.conf
 *.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
-*.bak
+gcode_shell_command.py.bak
 *.bkp
 *.csv
 *.zip
